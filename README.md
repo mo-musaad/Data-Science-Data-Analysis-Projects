@@ -6,4 +6,6 @@ This repository includes some of the DataCamp projects that I had completed.
 - The Android App Market on Google Play
 - The GitHub History of the Scala Language
 
+# Author
 
+ * [Mohamed musaad](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)
