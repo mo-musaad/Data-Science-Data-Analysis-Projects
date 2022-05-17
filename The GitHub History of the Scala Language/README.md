@@ -9,3 +9,7 @@
 <li><code>pulls_2014-2018.csv</code> contains identical information, and spans from 2014 up to 2018.</li>
 <li><code>pull_files.csv</code> contains the files that were modified by each pull request.</li>
 </ol>
+
+# Author
+
+ * [Mohamed musaad](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)
