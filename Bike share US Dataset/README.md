@@ -1,5 +1,8 @@
 # Bike-share-US-Dataset
 Bike share US Dataset
+
+<p><img src="https://static.wixstatic.com/media/a4a427_253b29a5096d45e3b73ef28f5622fb01~mv2.jpg/v1/fill/w_650,h_325,al_c,q_90/a4a427_253b29a5096d45e3b73ef28f5622fb01~mv2.jpg" alt="data scince image"></p>
+
 # Basic Data Exploration with pandas on Bikeshare Data
 _A Python project using pandas to explore bikeshare data._
 
