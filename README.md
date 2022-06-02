@@ -8,6 +8,8 @@
 >3. The Android App Market on Google Play
 >4. The GitHub History of the Scala Language
 >5. Fuel Economy Dataset Analysis
+>6. Wine Quality Dataset Analysis
+>7. Bikeshare US Dataset Analysis
 
 # Author
 
