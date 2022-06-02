@@ -3,10 +3,10 @@
 
 ## This repository includes My Data Science projects and Case Studies :
 
-1. Investigate Movies Dataset
-2. Investigating Netflix Movies and Guest Stars in The Office
-3. The Android App Market on Google Play
-4. The GitHub History of the Scala Language
+>1. Investigate Movies Dataset
+>2. Investigating Netflix Movies and Guest Stars in The Office
+>3. The Android App Market on Google Play
+>4. The GitHub History of the Scala Language
 
 # Author
 
