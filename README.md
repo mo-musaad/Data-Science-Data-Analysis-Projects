@@ -1,5 +1,5 @@
 # Data Science And Data Analysis Projects
-<p><img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Data-Science-Projects-Big.jpg" alt="data scince image"></p>
+<p><img src="https://github.com/mo-musaad/Data-Science-Data-Analysis-Projects/blob/main/Data%20img.png" alt="data scince image"></p>
 
 ## This repository includes My Data Science And Data Analysis Projects and Case Studies :
 
