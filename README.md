@@ -1,7 +1,7 @@
-# Data Science practice projects
+# Data Science And Data Analysis Projects
 <p><img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Data-Science-Projects-Big.jpg" alt="data scince image"></p>
 
-## This repository includes My Data Science projects and Case Studies :
+## This repository includes My Data Science And Data Analysis Projects and Case Studies :
 
 >1. Investigate Movies Dataset
 >2. Investigating Netflix Movies and Guest Stars in The Office
